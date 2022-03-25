@@ -16,7 +16,7 @@ on:
 env:
   ROM_URL: https://firmware.meizu.com/Firmware/Flyme/16s/8.1.5.3/cn/20211228110054/b817c4a0/update.zip
   ROM_NAME: MIUI
-  BUILD_TYPE: ab
+  BUILD_TYPE: AB
   TZ: Asia/Shanghai
 
 jobs:
